@@ -1,3 +1,7 @@
+![Made With](https://img.shields.io/badge/made_with-php-blue)
+[![Packagist](https://img.shields.io/packagist/v/kawtharstudios/sf15to18)](https://packagist.org/packages/kawtharstudios/sf15to18/)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/kawtharstudios/sf15to18.svg?label=packagist%20downloads)](https://packagist.org/packages/kawtharstudios/sf15to18)
+
 # SF15to18
 
 Convert a 15 digit Salesforce ID to 18 digits
